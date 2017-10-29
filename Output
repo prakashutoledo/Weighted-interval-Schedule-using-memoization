@@ -1,0 +1,12 @@
+run:
+The jobs are 
+Job 1: 0 3 3
+Job 2: 1 4 2
+Job 3: 0 5 4
+Job 4: 3 6 1
+Job 5: 4 7 2
+Job 6: 3 9 5
+Job 7: 5 10 2
+Job 8: 8 10 1
+The optimum profit is : 8
+BUILD SUCCESSFUL (total time: 0 seconds)
